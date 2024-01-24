@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi👋, I am Alphonce Omondi 
+***
+# A backend developer from Kenya
+![](https://komarev.com/ghpvc/?username=amcoolalphonce)
 <!--
 **amcoolalphonce/amcoolalphonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
