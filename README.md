@@ -3,6 +3,7 @@
 # A backend developer from Kenya
 ![](https://komarev.com/ghpvc/?username=amcoolalphonce)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amcoolalphonce&hide_progress=true)
 ## LANGUAGES AND TOOLS
 * Python
 * C++
@@ -11,6 +12,7 @@
 * CSS
 * 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcoolalphonce)]
+
 <!--
 **amcoolalphonce/amcoolalphonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
