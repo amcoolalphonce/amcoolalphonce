@@ -18,6 +18,10 @@
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## SOCIAL HANDLES
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) https://twitter.com/amcoolalphonce
+
+
+ [!NOTE]
+This user is currently in school
 <!--
 **amcoolalphonce/amcoolalphonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
