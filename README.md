@@ -1,9 +1,7 @@
-## Hi👋, I am Alphonce Omondi 
-# A backend developer from Kenya
+#ALPHONCE OMONDI 
+# A BACKEND DEVELOPER FROM NAIROBI,KENYA
 ![](https://komarev.com/ghpvc/?username=amcoolalphonce)
 ***
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amcoolalphonce&hide_progress=true) 
 ## LANGUAGES
 * ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,7 +14,8 @@
 * ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 * ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 * ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## SOCIAL HANDLES
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) https://twitter.com/amcoolalphonce
 <!--
