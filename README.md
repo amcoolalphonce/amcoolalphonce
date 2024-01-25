@@ -1,4 +1,4 @@
-### Hi👋, I am Alphonce Omondi 
+## Hi👋, I am Alphonce Omondi 
 ***
 # A backend developer from Kenya
 ![](https://komarev.com/ghpvc/?username=amcoolalphonce)
@@ -10,8 +10,6 @@
 * Django Framework
 * HTML
 * CSS
-* 
-[![Amcool's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcoolalphonce&show_icons=true&theme=dark)]
 
 <!--
 **amcoolalphonce/amcoolalphonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
