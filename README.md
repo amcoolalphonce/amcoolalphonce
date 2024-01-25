@@ -1,7 +1,8 @@
 ## Hi👋, I am Alphonce Omondi 
-***
 # A backend developer from Kenya
 ![](https://komarev.com/ghpvc/?username=amcoolalphonce)
+***
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amcoolalphonce&hide_progress=true) 
 ## LANGUAGES
 * ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
