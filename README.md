@@ -1,5 +1,5 @@
 # <p align="center">ALPHONCE OMONDI </p>
-# <p align="center"> A BACKEND DEVELOPER FROM NAIROBI, KENYA </p>
+# <p align="center"> A BACKEND DEVELOPER</p>
 ![](https://komarev.com/ghpvc/?username=amcoolalphonce)
 ***
 ## LANGUAGES
