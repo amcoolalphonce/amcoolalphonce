@@ -7,7 +7,9 @@
 ## TOOLS  
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amcoolalphonce&" alt="amcoolalphonce" /></p>
 
+![Ismael126895's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcoolalphonce&show_icons=true&theme=radical)
 
 ## mail me at
 amcoolaphonce@gmail.com
