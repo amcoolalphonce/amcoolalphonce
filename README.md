@@ -9,7 +9,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amcoolalphonce&" alt="amcoolalphonce" /></p>
 
-![Ismael126895's GitHub stats](https://github-readme-stats.vercel.app/api?username=amcoolalphonce&show_icons=true&theme=radical)
 
 ## mail me at
 amcoolaphonce@gmail.com
