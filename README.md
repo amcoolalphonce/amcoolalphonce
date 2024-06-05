@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+****
+- 🌱 I’m currently learning  and working on APIs and Artificial Intelligence Integration on Websites
+- - 👯 I’m looking to collaborate on start up projects 
