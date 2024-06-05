@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 ****
 - 🌱 I’m currently learning  and working on APIs and Artificial Intelligence Integration on Websites
-- - 👯 I’m looking to collaborate on start up projects 
+- 👯 I’m looking to collaborate on start up projects 
