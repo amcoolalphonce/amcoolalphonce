@@ -2,7 +2,6 @@
 ### <p align="center"> A BACKEND DEVELOPER</p>
 ![](https://komarev.com/ghpvc/?username=amcoolalphonce)
 ***
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vxuy43p4ganrk7dtybrvkgfswu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ## LANGUAGES
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) HTML CSS
 ## TOOLS  
