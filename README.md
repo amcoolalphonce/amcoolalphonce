@@ -20,9 +20,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amcoolalphonce&" alt="amcoolalphonce" /></p>
 
-## mail me at
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amcoolaphonce@gmail.com)
 
 ****
