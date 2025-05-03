@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amcoolalphonce&" alt="amcoolalphonce" /></p>
 
 ## mail me at
-amcoolaphonce@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amcoolaphonce@gmail.com)
 
 ****
 - 🌱 I’m currently learning and working on APIs and Artificial Intelligence Integration on Websites  
